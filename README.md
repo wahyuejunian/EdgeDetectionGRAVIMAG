@@ -1,5 +1,6 @@
 # EdgeDetectionGRAVIMAG
 Edge Detection for potetial field data (Gravity and Magnetic data)
+
 dx = Derivative x
 
 dy = Derivative y
@@ -9,10 +10,13 @@ dz = Derivative z
 THD = total horizontal gradient
 
 TA = tilt angle
+https://doi.org/10.1016/0926-9851(94)90022-1
 
 AS = analytic signal
+https://doi.org/10.1111/j.1365-2478.1994.tb00234.x
 
 tetha = tetha map
+https://doi.org/10.1190/1.1988184
 
 NSD = normalized statistics
 https://doi.org/10.1190/1.2837309
