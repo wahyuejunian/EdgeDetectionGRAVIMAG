@@ -31,4 +31,9 @@ https://doi.org/10.1080/10106049.2021.1882007
 EHGA = Enhanced horizontal gradient amplitude
 https://doi.org/10.1080/10106049.2020.1849414
 
+Synthetic data:
 ![Fig1](https://user-images.githubusercontent.com/113156229/216503358-1e351607-fcd3-4b02-ae5b-70edb804f958.png)
+
+Field data: Gravity data Witwatersrand Basin, SouthAfrica
+https://doi.org/10.1190/1.2837309
+![Uploading Fig1.png…]()
