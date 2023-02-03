@@ -34,7 +34,7 @@ https://doi.org/10.1080/10106049.2020.1849414
 Synthetic data:
 ![Fig1](https://user-images.githubusercontent.com/113156229/216503358-1e351607-fcd3-4b02-ae5b-70edb804f958.png)
 
-Field data: Gravity data Witwatersrand Basin, SouthAfrica
-https://doi.org/10.1190/1.2837309
+Field data: Gravity data Witwatersrand Basin, South Africa
+dowload --> https://doi.org/10.1190/1.2837309
 ![Fig1](https://user-images.githubusercontent.com/113156229/216509315-faad3537-0a7c-45a9-a6e2-74f905895846.png)
 
