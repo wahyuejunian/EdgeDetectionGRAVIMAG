@@ -36,4 +36,5 @@ Synthetic data:
 
 Field data: Gravity data Witwatersrand Basin, SouthAfrica
 https://doi.org/10.1190/1.2837309
-![Uploading Fig1.png…]()
+![Fig1](https://user-images.githubusercontent.com/113156229/216509315-faad3537-0a7c-45a9-a6e2-74f905895846.png)
+
