@@ -31,4 +31,4 @@ https://doi.org/10.1080/10106049.2021.1882007
 EHGA = Enhanced horizontal gradient amplitude
 https://doi.org/10.1080/10106049.2020.1849414
 
-![Fig1](https://user-images.githubusercontent.com/113156229/216481907-7a5e890f-b639-4e80-aac8-bb1835d813c0.png)
+![Fig1](https://user-images.githubusercontent.com/113156229/216503358-1e351607-fcd3-4b02-ae5b-70edb804f958.png)
