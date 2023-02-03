@@ -1,5 +1,6 @@
 # EdgeDetectionGRAVIMAG
 Edge Detection for potetial field data (Gravity and Magnetic data)
+Code in matlab
 
 dx = Derivative x
 
